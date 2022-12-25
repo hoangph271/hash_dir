@@ -1,0 +1,12 @@
+{
+  "name": "hash_dir",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon . ."
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
